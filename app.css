@@ -1,3 +1,8 @@
 body {
     background-color: green;
 }
+
+.word {
+    font: 2em;
+    color: aqua;
+}
