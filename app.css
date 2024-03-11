@@ -2,7 +2,7 @@ body {
     background-color: green;
 }
 
-.word {
+#word {
     font: 2em;
     color: aqua;
 }
