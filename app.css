@@ -4,6 +4,8 @@ body {
 
 .word {
     font-size: 5rem;
-    color: red;
+
+    color: aqua;
+    font-weight: 200;
 
 }
